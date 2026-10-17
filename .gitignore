@@ -11,7 +11,11 @@ generate_videos.py
 record_*.py
 capture_*.py
 
-# Images and portal submission guides (kept locally, ignored by git repo)
+# Portal assets & artwork folders (kept locally, ignored by git)
+CrazyGames/
+Poki/
+Artwork/
 *.png
 *.jpg
+*.mp4
 *_SUBMISSION_GUIDE.md
