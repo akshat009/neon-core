@@ -1,0 +1,14 @@
+# Temporary recording folders
+temp_rec_*
+rec_obj_*
+rec_native_land/
+__pycache__/
+*.pyc
+
+# Scratch & test scripts
+test_*.py
+generate_videos.py
+record_*.py
+capture_*.py
+1000257039.jpg
+Gemini_Generated_Image_*
