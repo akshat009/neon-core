@@ -10,5 +10,8 @@ test_*.py
 generate_videos.py
 record_*.py
 capture_*.py
-1000257039.jpg
-Gemini_Generated_Image_*
+
+# Images and portal submission guides (kept locally, ignored by git repo)
+*.png
+*.jpg
+*_SUBMISSION_GUIDE.md
