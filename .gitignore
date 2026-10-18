@@ -15,6 +15,7 @@ capture_*.py
 CrazyGames/
 Poki/
 Artwork/
+crazygames-v2/
 *.png
 *.jpg
 *.mp4
